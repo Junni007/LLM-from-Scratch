@@ -1,21 +1,21 @@
 # TODO List - LLM from Scratch Implementation
 
 ## Overall Progress
-- [ ] Environment Setup
-- [ ] Part 0 - Foundations & Mindset
-- [ ] Part 1 - Core Transformer Architecture
-- [ ] Part 2 - Training a Tiny LLM
-- [ ] Part 3 - Modernizing the Architecture
-- [ ] Part 4 - Scaling Up
-- [ ] Part 5 - Mixture-of-Experts (MoE)
-- [ ] Part 6 - Supervised Fine-Tuning (SFT)
-- [ ] Part 7 - Reward Modeling
-- [ ] Part 8 - RLHF with PPO
-- [ ] Part 9 - RLHF with GRPO
-- [ ] Part 10 - Advanced Semantic Processing
-- [ ] Efficiency Optimizations
-- [ ] Testing Framework
-- [ ] Educational Components
+- [x] Environment Setup
+- [x] Part 0 - Foundations & Mindset
+- [x] Part 1 - Core Transformer Architecture
+- [x] Part 2 - Training a Tiny LLM
+- [x] Part 3 - Modernizing the Architecture
+- [x] Part 4 - Scaling Up
+- [x] Part 5 - Mixture-of-Experts (MoE)
+- [x] Part 6 - Supervised Fine-Tuning (SFT)
+- [x] Part 7 - Reward Modeling
+- [x] Part 8 - RLHF with PPO
+- [x] Part 9 - RLHF with GRPO
+- [x] Part 10 - Advanced Semantic Processing
+- [x] Efficiency Optimizations
+- [x] Testing Framework
+- [x] Educational Components
 
 ## Detailed Task List
 

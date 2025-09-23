@@ -8,7 +8,7 @@ This directory contains implementations of various tokenization systems for the 
 - [byte_tokenizer.py](byte_tokenizer.py): Implementation of byte-level tokenizer that maps each byte value (0-255) to a token ID
 
 ### BPE Tokenizer
-- [bpe_tokenizer.py](bpe_tokenizer.py): Implementation of Byte Pair Encoding tokenizer (to be implemented)
+- [bpe_tokenizer.py](bpe_tokenizer.py): Implementation of Byte Pair Encoding tokenizer
 
 ### BoundlessBPE Tokenizer
 - [boundless_bpe_tokenizer.py](boundless_bpe_tokenizer.py): Implementation of BoundlessBPE tokenizer (to be implemented)
@@ -16,5 +16,5 @@ This directory contains implementations of various tokenization systems for the 
 ## Implementation Progress
 
 - [x] Byte-level tokenizer
-- [ ] BPE tokenizer
+- [x] BPE tokenizer
 - [ ] BoundlessBPE tokenizer
